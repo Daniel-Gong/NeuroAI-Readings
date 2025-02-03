@@ -1343,7 +1343,9 @@ I was in Vancuver attending the NeurIPS 2024 conference, and it was pretty fun a
 
 [Chaotic recurrent neural networks for brain modelling: A review](https://www.sciencedirect.com/science/article/pii/S0893608024010086)
 
-**1.6**
+Woooo! Welcome to 2025!
+
+**1.6.2025**
 
 [Formal Mathematical Reasoning: A New Frontier in AI](https://arxiv.org/abs/2412.16075)
 
