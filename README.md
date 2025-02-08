@@ -1392,3 +1392,5 @@ Horray! I've been updating this list for a year!
 **2.8**
 
 [\[2502.03373\] Demystifying Long Chain-of-Thought Reasoning in LLMs](https://arxiv.org/abs/2502.03373)
+
+[\[2501.14176\] RL + Transformer = A General-Purpose Problem Solver](https://arxiv.org/abs/2501.14176)
