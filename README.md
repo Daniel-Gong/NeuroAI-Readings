@@ -1388,3 +1388,7 @@ Horray! I've been updating this list for a year!
 **2.3**
 
 [Information decomposition and the informational architecture of the brain](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613\(23\)00284-X)
+
+**2.8**
+
+[\[2502.03373\] Demystifying Long Chain-of-Thought Reasoning in LLMs](https://arxiv.org/abs/2502.03373)
