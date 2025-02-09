@@ -1396,3 +1396,7 @@ Horray! I've been updating this list for a year!
 [\[2501.14176\] RL + Transformer = A General-Purpose Problem Solver](https://arxiv.org/abs/2501.14176)
 
 [\[2502.01591\] Improving Transformer World Models for Data-Efficient RL](https://arxiv.org/abs/2502.01591)
+
+**2.9**
+
+[\[2501.08683\] The Physics of Life: Exploring Information as a Distinctive Feature of Living Systems](https://arxiv.org/abs/2501.08683)
