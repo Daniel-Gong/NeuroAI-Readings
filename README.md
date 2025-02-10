@@ -1400,3 +1400,19 @@ Horray! I've been updating this list for a year!
 **2.9**
 
 [\[2501.08683\] The Physics of Life: Exploring Information as a Distinctive Feature of Living Systems](https://arxiv.org/abs/2501.08683)
+
+**2.10**
+
+[The Limitations of Large Language Models for Understanding Human Language and Cognition](https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00160/124234/The-Limitations-of-Large-Language-Models-for)
+
+[Shared computational principles for language processing in humans and deep language models](https://www.nature.com/articles/s41593-022-01026-4)
+
+[Evidence of a predictive coding hierarchy in the human brain listening to speech](https://www.nature.com/articles/s41562-022-01516-2)
+
+[The cognitive cell: bacterial behavior reconsidered](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2015.00264/full)
+
+[\[2405.02325v4\] Are Biological Systems More Intelligent Than Artificial Intelligence?](https://arxiv.org/abs/2405.02325v4)
+
+[Visual cognition in multimodal large language models](https://www.nature.com/articles/s42256-024-00963-y)
+
+[Timeliness criticality in complex systems](https://www.nature.com/articles/s41567-024-02525-w)
