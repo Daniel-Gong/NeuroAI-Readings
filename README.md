@@ -1416,3 +1416,7 @@ Horray! I've been updating this list for a year!
 [Visual cognition in multimodal large language models](https://www.nature.com/articles/s42256-024-00963-y)
 
 [Timeliness criticality in complex systems](https://www.nature.com/articles/s41567-024-02525-w)
+
+**2.11**
+
+[\[2502.01951\] On the Emergence of Position Bias in Transformers](https://arxiv.org/abs/2502.01951)
