@@ -1424,3 +1424,5 @@ Horray! I've been updating this list for a year!
 **2.15**
 
 [\[2412.02104\] Explainable and Interpretable Multimodal Large Language Models: A Comprehensive Survey](https://arxiv.org/abs/2412.02104)
+
+[\[2502.07256\] Understanding and controlling the geometry of memory organization in RNNs](https://arxiv.org/abs/2502.07256)
