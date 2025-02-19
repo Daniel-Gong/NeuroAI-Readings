@@ -1436,3 +1436,5 @@ Horray! I've been updating this list for a year!
 **2.19**
 
 [\[1802.07740\] Machine Theory of Mind](https://arxiv.org/abs/1802.07740)
+
+[\[2306.12672\] From Word Models to World Models: Translating from Natural Language to the Probabilistic Language of Thought](https://arxiv.org/abs/2306.12672)
