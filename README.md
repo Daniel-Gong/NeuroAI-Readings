@@ -1432,3 +1432,7 @@ Horray! I've been updating this list for a year!
 [Neuroevolution insights into biological neural computation](https://www.science.org/doi/full/10.1126/science.adp7478)
 
 [Episodic and associative memory from spatial scaffolds in the hippocampus](https://www.nature.com/articles/s41586-024-08392-y)
+
+**2.19**
+
+[\[1802.07740\] Machine Theory of Mind](https://arxiv.org/abs/1802.07740)
