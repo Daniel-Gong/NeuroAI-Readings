@@ -1448,3 +1448,5 @@ Horray! I've been updating this list for a year!
 [\[2502.12352\] Towards Mechanistic Interpretability of Graph Transformers via Attention Graphs](https://arxiv.org/abs/2502.12352)
 
 [\[2412.14171\] Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces](https://arxiv.org/abs/2412.14171)
+
+[\[2211.01201\] Human alignment of neural network representations](https://arxiv.org/abs/2211.01201)
