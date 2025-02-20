@@ -28,7 +28,7 @@ model based on NMDAR-inspired nonlinearity](https://openreview.net/pdf?id=vKpVJx
 
 **2.7.2024**
 
-[No Coincidence, George: Capacity-Limits as the Curse of Compositionality](https://osf.io/preprints/psyarxiv/cjuxb), PsyArXiv, 2022
+[No Coincidence, George: Capacity-Limits as the Curse of Compositionality](https://osf.io/preprints/psyarxiv/cjuxb_v2), PsyArXiv, 2022
 
 **2.12.2024**
 
