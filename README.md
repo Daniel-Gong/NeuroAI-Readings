@@ -1440,3 +1440,7 @@ Horray! I've been updating this list for a year!
 [\[2306.12672\] From Word Models to World Models: Translating from Natural Language to the Probabilistic Language of Thought](https://arxiv.org/abs/2306.12672)
 
 [Divergent recruitment of developmentally defined neuronal ensembles supports memory dynamics](https://www.science.org/doi/10.1126/science.adk0997)
+
+**2.20**
+
+[\[2502.12352\] Towards Mechanistic Interpretability of Graph Transformers via Attention Graphs](https://arxiv.org/abs/2502.12352)
