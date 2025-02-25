@@ -1450,3 +1450,7 @@ Horray! I've been updating this list for a year!
 [\[2412.14171\] Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces](https://arxiv.org/abs/2412.14171)
 
 [\[2211.01201\] Human alignment of neural network representations](https://arxiv.org/abs/2211.01201)
+
+**2.25**
+
+[\[2406.12780\] Bayesian Consistency for Long Memory Processes: A Semiparametric Perspective](https://arxiv.org/abs/2406.12780)
