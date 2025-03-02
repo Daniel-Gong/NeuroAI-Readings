@@ -1454,3 +1454,7 @@ Horray! I've been updating this list for a year!
 **2.25**
 
 [\[2406.12780\] Bayesian Consistency for Long Memory Processes: A Semiparametric Perspective](https://arxiv.org/abs/2406.12780)
+
+**3.2**
+
+[Compositional architecture: Orthogonal neural codes for task context and spatial memory in prefrontal cortex](https://www.biorxiv.org/content/10.1101/2025.02.25.640211v1)
