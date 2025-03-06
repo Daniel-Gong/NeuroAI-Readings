@@ -1458,3 +1458,7 @@ Horray! I've been updating this list for a year!
 **3.2**
 
 [Compositional architecture: Orthogonal neural codes for task context and spatial memory in prefrontal cortex](https://www.biorxiv.org/content/10.1101/2025.02.25.640211v1)
+
+**3.6**
+
+[Bridging AI and Science: Implications from a Large-Scale Literature Analysis of AI4Science](https://arxiv.org/abs/2412.09628)
