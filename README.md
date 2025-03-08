@@ -1462,3 +1462,7 @@ Horray! I've been updating this list for a year!
 **3.6**
 
 [Bridging AI and Science: Implications from a Large-Scale Literature Analysis of AI4Science](https://arxiv.org/abs/2412.09628)
+
+**3.8**
+
+[\[2503.01067\] All Roads Lead to Likelihood: The Value of Reinforcement Learning in Fine-Tuning](https://arxiv.org/abs/2503.01067)
