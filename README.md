@@ -1466,3 +1466,6 @@ Horray! I've been updating this list for a year!
 **3.8**
 
 [\[2503.01067\] All Roads Lead to Likelihood: The Value of Reinforcement Learning in Fine-Tuning](https://arxiv.org/abs/2503.01067)
+
+**3.10**
+[前额叶皮层启发的Transformer模型应用及其进展](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c240538)
