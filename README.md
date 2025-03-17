@@ -1474,3 +1474,7 @@ Horray! I've been updating this list for a year!
 **3.14**
 
 [Unveiling Transformers with LEGO: a synthetic reasoning task](https://arxiv.org/abs/2206.04301)
+
+**3.17**
+
+[\[2308.16898\] Transformers as Support Vector Machines](https://arxiv.org/abs/2308.16898)
