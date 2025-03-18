@@ -1478,3 +1478,5 @@ Horray! I've been updating this list for a year!
 **3.17**
 
 [\[2308.16898\] Transformers as Support Vector Machines](https://arxiv.org/abs/2308.16898)
+
+[\[2503.02113\] Deep Learning is Not So Mysterious or Different](https://arxiv.org/abs/2503.02113)
