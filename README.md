@@ -1480,3 +1480,7 @@ Horray! I've been updating this list for a year!
 [\[2308.16898\] Transformers as Support Vector Machines](https://arxiv.org/abs/2308.16898)
 
 [\[2503.02113\] Deep Learning is Not So Mysterious or Different](https://arxiv.org/abs/2503.02113)
+
+**3.21**
+
+[R1-Zero's "Aha Moment" in Visual Reasoning on a 2B Non-SFT Model](https://arxiv.org/abs/2503.05132)
