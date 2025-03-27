@@ -1484,3 +1484,9 @@ Horray! I've been updating this list for a year!
 **3.21**
 
 [R1-Zero's "Aha Moment" in Visual Reasoning on a 2B Non-SFT Model](https://arxiv.org/abs/2503.05132)
+
+**3.27**
+
+[Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366)
+
+[Deep reinforcement learning can promote sustainable human behaviour in a common-pool resource problem](https://www.nature.com/articles/s41467-025-58043-7)
