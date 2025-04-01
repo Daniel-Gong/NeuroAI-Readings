@@ -1490,3 +1490,7 @@ Horray! I've been updating this list for a year!
 [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366)
 
 [Deep reinforcement learning can promote sustainable human behaviour in a common-pool resource problem](https://www.nature.com/articles/s41467-025-58043-7)
+
+**4.1**
+
+[Mechanisms of Symbol Processing for In-Context Learning in Transformer Networks](https://arxiv.org/abs/2410.17498)
