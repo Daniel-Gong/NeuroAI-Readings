@@ -1505,3 +1505,5 @@ Horray! I've been updating this list for a year!
 [Rational Metareasoning for Large Language Models](https://arxiv.org/abs/2410.05563)
 
 [What the F*ck Is Artificial General Intelligence?](https://arxiv.org/abs/2503.23923)
+
+[\[2410.05563\] Rational Metareasoning for Large Language Models](https://arxiv.org/abs/2410.05563)
