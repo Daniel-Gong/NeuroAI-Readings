@@ -1499,3 +1499,7 @@ Horray! I've been updating this list for a year!
 [\[2503.23674\] Large Language Models Pass the Turing Test](https://arxiv.org/abs/2503.23674)
 
 [\[2503.23923\] What the F*ck Is Artificial General Intelligence?](https://arxiv.org/abs/2503.23923)
+
+**4.4**
+
+[Rational Metareasoning for Large Language Models](https://arxiv.org/abs/2410.05563)
