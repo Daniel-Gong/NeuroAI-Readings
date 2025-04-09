@@ -1510,6 +1510,8 @@ Horray! I've been updating this list for a year!
 
 [\[2411.14257\] Do I Know This Entity? Knowledge Awareness and Hallucinations in Language Models](https://arxiv.org/abs/2411.14257)
 
-[Tracing the thoughts of a large language model \ Anthropic](https://www.anthropic.com/research/tracing-thoughts-language-model)
+[Tracing the thoughts of a large language model](https://www.anthropic.com/research/tracing-thoughts-language-model)
+
+**4.9**
 
 [Human-like systematic generalization through a meta-learning neural network](https://www.nature.com/articles/s41586-023-06668-3)
