@@ -1517,3 +1517,7 @@ Horray! I've been updating this list for a year!
 [Human-like systematic generalization through a meta-learning neural network](https://www.nature.com/articles/s41586-023-06668-3)
 
 [Grounded language acquisition through the eyes and ears of a single child](https://www.science.org/doi/10.1126/science.adi1374)
+
+**4.13**
+
+[Divergent recruitment of developmentally defined neuronal ensembles supports memory dynamics](https://www.science.org/doi/10.1126/science.adk0997)
