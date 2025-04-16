@@ -1523,3 +1523,7 @@ Horray! I've been updating this list for a year!
 [Divergent recruitment of developmentally defined neuronal ensembles supports memory dynamics](https://www.science.org/doi/10.1126/science.adk0997)
 
 [Welcome to the Era of Experience](https://storage.googleapis.com/deepmind-media/Era-of-Experience%20/The%20Era%20of%20Experience%20Paper.pdf)
+
+**4.16**
+
+[\[1611.03530\] Understanding deep learning requires rethinking generalization](https://arxiv.org/abs/1611.03530)
