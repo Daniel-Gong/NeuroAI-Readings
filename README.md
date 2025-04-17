@@ -1496,6 +1496,7 @@ Horray! I've been updating this list for a year!
 [Mechanisms of Symbol Processing for In-Context Learning in Transformer Networks](https://arxiv.org/abs/2410.17498)
 
 **4.2**
+
 [\[2503.23674\] Large Language Models Pass the Turing Test](https://arxiv.org/abs/2503.23674)
 
 [\[2503.23923\] What the F*ck Is Artificial General Intelligence?](https://arxiv.org/abs/2503.23923)
@@ -1503,8 +1504,6 @@ Horray! I've been updating this list for a year!
 **4.4**
 
 [Rational Metareasoning for Large Language Models](https://arxiv.org/abs/2410.05563)
-
-[What the F*ck Is Artificial General Intelligence?](https://arxiv.org/abs/2503.23923)
 
 [\[2410.05563\] Rational Metareasoning for Large Language Models](https://arxiv.org/abs/2410.05563)
 
