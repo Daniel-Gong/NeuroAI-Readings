@@ -1532,3 +1532,5 @@ Horray! I've been updating this list for a year!
 **4.24**
 
 [NoProp: Training Neural Networks without Back-propagation or Forward-propagation](https://arxiv.org/abs/2503.24322)
+
+[Causation in neuroscience: keeping mechanism meaningful](https://www.nature.com/articles/s41583-023-00778-7)
