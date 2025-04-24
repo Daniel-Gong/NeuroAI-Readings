@@ -1528,3 +1528,7 @@ Horray! I've been updating this list for a year!
 **4.17**
 
 [Learning and Generalization in RNNs](https://proceedings.neurips.cc/paper_files/paper/2021/file/b04c387c8384ca083a71b8da516f65f6-Paper.pdf)
+
+**4.24**
+
+[NoProp: Training Neural Networks without Back-propagation or Forward-propagation](https://arxiv.org/abs/2503.24322)
