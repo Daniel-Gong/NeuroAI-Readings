@@ -1536,3 +1536,5 @@ Horray! I've been updating this list for a year!
 [Causation in neuroscience: keeping mechanism meaningful](https://www.nature.com/articles/s41583-023-00778-7)
 
 [I-Con: A Unifying Framework for Representation Learning](https://arxiv.org/abs/2504.16929)
+
+[Oscillatory State-Space Models](https://arxiv.org/abs/2410.03943)
