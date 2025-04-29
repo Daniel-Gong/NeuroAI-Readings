@@ -1538,3 +1538,7 @@ Horray! I've been updating this list for a year!
 [I-Con: A Unifying Framework for Representation Learning](https://arxiv.org/abs/2504.16929)
 
 [Oscillatory State-Space Models](https://arxiv.org/abs/2410.03943)
+
+**4.28**
+
+[The Urgency of Interpretability](https://www.darioamodei.com/post/the-urgency-of-interpretability)
