@@ -1542,3 +1542,9 @@ Horray! I've been updating this list for a year!
 **4.28**
 
 [The Urgency of Interpretability](https://www.darioamodei.com/post/the-urgency-of-interpretability)
+
+**4.30**
+
+[Language is widely distributed throughout the brain](https://www.nature.com/articles/s41583-024-00903-0)
+
+[The language network as a natural kind within the broader landscape of the human brain](https://www.nature.com/articles/s41583-024-00802-4)
