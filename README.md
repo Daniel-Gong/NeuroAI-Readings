@@ -1554,3 +1554,7 @@ Horray! I've been updating this list for a year!
 **5.1**
 
 [Relation between the psychological and thermodynamic arrows of time](https://journals.aps.org/pre/pdf/10.1103/PhysRevE.89.052102)
+
+**5.2**
+
+[Layer by Layer: Uncovering Hidden Representations in Language Models](https://arxiv.org/abs/2502.02013)
