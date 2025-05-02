@@ -1560,3 +1560,7 @@ Horray! I've been updating this list for a year!
 [Layer by Layer: Uncovering Hidden Representations in Language Models](https://arxiv.org/abs/2502.02013)
 
 [On the generalization of language models from in-context learning and finetuning: a controlled study](https://arxiv.org/abs/2505.00661)
+
+[\[2411.00238\] Understanding the Limits of Vision Language Models Through the Lens of the Binding Problem](https://arxiv.org/abs/2411.00238)
+
+[\[2503.13401\] Using the Tools of Cognitive Science to Understand Large Language Models at Different Levels of Analysis](https://arxiv.org/abs/2503.13401)
