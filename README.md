@@ -1550,3 +1550,7 @@ Horray! I've been updating this list for a year!
 [The language network as a natural kind within the broader landscape of the human brain](https://www.nature.com/articles/s41583-024-00802-4)
 
 [Language Models Are Implicitly Continuous](https://arxiv.org/abs/2504.03933)
+
+**5.1**
+
+[Relation between the psychological and thermodynamic arrows of time](https://journals.aps.org/pre/pdf/10.1103/PhysRevE.89.052102)
