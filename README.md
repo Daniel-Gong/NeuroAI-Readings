@@ -1558,3 +1558,5 @@ Horray! I've been updating this list for a year!
 **5.2**
 
 [Layer by Layer: Uncovering Hidden Representations in Language Models](https://arxiv.org/abs/2502.02013)
+
+[On the generalization of language models from in-context learning and finetuning: a controlled study](https://arxiv.org/abs/2505.00661)
