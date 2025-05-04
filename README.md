@@ -1564,3 +1564,7 @@ Horray! I've been updating this list for a year!
 [\[2411.00238\] Understanding the Limits of Vision Language Models Through the Lens of the Binding Problem](https://arxiv.org/abs/2411.00238)
 
 [\[2503.13401\] Using the Tools of Cognitive Science to Understand Large Language Models at Different Levels of Analysis](https://arxiv.org/abs/2503.13401)
+
+**5.3**
+
+[Predictive coding is a consequence of energy efficiency in recurrent neural networks](https://www.sciencedirect.com/science/article/pii/S2666389922002719?via%3Dihub)
