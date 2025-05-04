@@ -1568,3 +1568,5 @@ Horray! I've been updating this list for a year!
 **5.3**
 
 [Predictive coding is a consequence of energy efficiency in recurrent neural networks](https://www.sciencedirect.com/science/article/pii/S2666389922002719?via%3Dihub)
+
+[Understanding Self-attention Mechanism via Dynamical System Perspective](https://arxiv.org/abs/2308.09939)
