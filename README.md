@@ -1574,3 +1574,5 @@ Horray! I've been updating this list for a year!
 **5.4**
 
 [Distributional Reinforcement Learning in the Brain](https://www.sciencedirect.com/science/article/pii/S0166223620301983?via%3Dihub)
+
+[Natural language instructions induce compositional generalization in networks of neurons](https://www.nature.com/articles/s41593-024-01607-5)
