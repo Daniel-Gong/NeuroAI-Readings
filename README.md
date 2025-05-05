@@ -1577,4 +1577,8 @@ Horray! I've been updating this list for a year!
 
 [Natural language instructions induce compositional generalization in networks of neurons](https://www.nature.com/articles/s41593-024-01607-5)
 
+**5.5**
+
 [A Mathematical Philosophy of Explanations in Mechanistic Interpretability -- The Strange Science Part I.i](https://www.arxiv.org/abs/2505.00808)
+
+[Evaluating Explanations: An Explanatory Virtues Framework for Mechanistic Interpretability -- The Strange Science Part I.ii](https://arxiv.org/abs/2505.01372)
