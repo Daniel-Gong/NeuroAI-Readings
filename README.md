@@ -1590,3 +1590,5 @@ Horray! I've been updating this list for a year!
 [Large language models surpass human experts in predicting neuroscience results](https://www.nature.com/articles/s41562-024-02046-9)
 
 [An integrative data-driven model simulating C. elegans brain, body and environment interactions](https://www.nature.com/articles/s43588-024-00738-w)
+
+[Large language models surpass human experts in predicting neuroscience results](https://www.nature.com/articles/s41562-024-02046-9)
