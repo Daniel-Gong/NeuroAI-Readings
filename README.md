@@ -1582,3 +1582,5 @@ Horray! I've been updating this list for a year!
 [A Mathematical Philosophy of Explanations in Mechanistic Interpretability -- The Strange Science Part I.i](https://www.arxiv.org/abs/2505.00808)
 
 [Evaluating Explanations: An Explanatory Virtues Framework for Mechanistic Interpretability -- The Strange Science Part I.ii](https://arxiv.org/abs/2505.01372)
+
+[Brain-inspired learning in artificial neural networks: A review](https://pubs.aip.org/aip/aml/article/2/2/021501/3291446/Brain-inspired-learning-in-artificial-neural)
