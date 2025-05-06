@@ -1586,3 +1586,5 @@ Horray! I've been updating this list for a year!
 [Brain-inspired learning in artificial neural networks: A review](https://pubs.aip.org/aip/aml/article/2/2/021501/3291446/Brain-inspired-learning-in-artificial-neural)
 
 [Neuromorphic computing at scale](https://www.nature.com/articles/s41586-024-08253-8)
+
+[Large language models surpass human experts in predicting neuroscience results](https://www.nature.com/articles/s41562-024-02046-9)
