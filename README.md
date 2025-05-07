@@ -1604,3 +1604,5 @@ Horray! I've been updating this list for a year!
 [Consciousness in AI: Logic, Proof, and Experimental Evidence of Recursive Identity Formation](https://www.arxiv.org/abs/2505.01464)
 
 [NeuroXiv: AI-powered open databasing and dynamic mining of brain-wide neuron morphometry](https://www.nature.com/articles/s41592-025-02687-2)
+
+[Learning Algorithm Of Biological Networks - YouTube](https://www.youtube.com/watch?v=l-OLgbdZ3kk)
