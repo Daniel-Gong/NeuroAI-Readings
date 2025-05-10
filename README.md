@@ -1614,3 +1614,5 @@ Horray! I've been updating this list for a year!
 [Normalization as a canonical neural computation](https://www.nature.com/articles/nrn3136)
 
 [The Handbook of Brain Theory and Neural Networks](https://direct.mit.edu/books/edited-volume/4358/The-Handbook-of-Brain-Theory-and-Neural-Networks)
+
+[Fundamental limits on persistent activity in networks of noisy neurons](https://www.pnas.org/doi/full/10.1073/pnas.1117386109)
