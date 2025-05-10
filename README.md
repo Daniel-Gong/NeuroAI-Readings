@@ -1613,3 +1613,4 @@ Horray! I've been updating this list for a year!
 
 [Normalization as a canonical neural computation](https://www.nature.com/articles/nrn3136)
 
+[The Handbook of Brain Theory and Neural Networks](https://direct.mit.edu/books/edited-volume/4358/The-Handbook-of-Brain-Theory-and-Neural-Networks)
