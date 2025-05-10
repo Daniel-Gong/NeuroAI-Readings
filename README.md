@@ -1606,3 +1606,10 @@ Horray! I've been updating this list for a year!
 [NeuroXiv: AI-powered open databasing and dynamic mining of brain-wide neuron morphometry](https://www.nature.com/articles/s41592-025-02687-2)
 
 [Learning Algorithm Of Biological Networks - YouTube](https://www.youtube.com/watch?v=l-OLgbdZ3kk)
+
+**5.10**
+
+[Information processing with population codes](https://www.nature.com/articles/35039062)
+
+[Normalization as a canonical neural computation](https://www.nature.com/articles/nrn3136)
+
