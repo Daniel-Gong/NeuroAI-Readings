@@ -1620,3 +1620,5 @@ Horray! I've been updating this list for a year!
 **5.11**
 
 [Toward an Integration of Deep Learning and Neuroscience](https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2016.00094/full)
+
+[Introduction to latent variable energy-based models: a path toward autonomous machine intelligence](https://iopscience.iop.org/article/10.1088/1742-5468/ad292b)
