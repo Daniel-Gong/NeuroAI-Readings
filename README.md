@@ -1616,3 +1616,7 @@ Horray! I've been updating this list for a year!
 [The Handbook of Brain Theory and Neural Networks](https://direct.mit.edu/books/edited-volume/4358/The-Handbook-of-Brain-Theory-and-Neural-Networks)
 
 [Fundamental limits on persistent activity in networks of noisy neurons](https://www.pnas.org/doi/full/10.1073/pnas.1117386109)
+
+**5.11**
+
+[Toward an Integration of Deep Learning and Neuroscience](https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2016.00094/full)
