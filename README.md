@@ -1624,3 +1624,11 @@ Horray! I've been updating this list for a year!
 [Introduction to latent variable energy-based models: a path toward autonomous machine intelligence](https://iopscience.iop.org/article/10.1088/1742-5468/ad292b)
 
 [Decision Theory: What "Should" the Nervous System Do?](https://www.science.org/doi/full/10.1126/science.1142998)
+
+**5.12**
+
+[\[2411.18526\] NeuroAI for AI Safety](https://arxiv.org/abs/2411.18526)
+
+[\[1511.06644\] Recurrent Gaussian Processes](https://arxiv.org/abs/1511.06644)
+
+[\[1910.12478\] Tensor Programs I: Wide Feedforward or Recurrent Neural Networks of Any Architecture are Gaussian Processes](https://arxiv.org/abs/1910.12478)
