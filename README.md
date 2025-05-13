@@ -1632,3 +1632,5 @@ Horray! I've been updating this list for a year!
 [\[1511.06644\] Recurrent Gaussian Processes](https://arxiv.org/abs/1511.06644)
 
 [\[1910.12478\] Tensor Programs I: Wide Feedforward or Recurrent Neural Networks of Any Architecture are Gaussian Processes](https://arxiv.org/abs/1910.12478)
+
+[\[2505.05522\] Continuous Thought Machines](https://arxiv.org/abs/2505.05522)
