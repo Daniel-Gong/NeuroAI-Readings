@@ -1638,3 +1638,5 @@ Horray! I've been updating this list for a year!
 [\[2505.05522\] Continuous Thought Machines](https://arxiv.org/abs/2505.05522)
 
 [\[2504.14107\] Linking forward-pass dynamics in Transformers and real-time human processing](https://arxiv.org/abs/2504.14107)
+
+[\[2504.15965\] From Human Memory to AI Memory: A Survey on Memory Mechanisms in the Era of LLMs](https://arxiv.org/abs/2504.15965)
