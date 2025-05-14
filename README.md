@@ -1640,3 +1640,7 @@ Horray! I've been updating this list for a year!
 [\[2504.14107\] Linking forward-pass dynamics in Transformers and real-time human processing](https://arxiv.org/abs/2504.14107)
 
 [\[2504.15965\] From Human Memory to AI Memory: A Survey on Memory Mechanisms in the Era of LLMs](https://arxiv.org/abs/2504.15965)
+
+**5.14**
+
+[Chaotic neural dynamics facilitate probabilistic computations through sampling](https://www.pnas.org/doi/10.1073/pnas.2312992121)
