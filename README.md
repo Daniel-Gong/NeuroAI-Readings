@@ -1644,3 +1644,5 @@ Horray! I've been updating this list for a year!
 **5.14**
 
 [Chaotic neural dynamics facilitate probabilistic computations through sampling](https://www.pnas.org/doi/10.1073/pnas.2312992121)
+
+[\[1405.6232\] Quasi-Critical Brain Dynamics on a Non-Equilibrium Widom Line](https://arxiv.org/abs/1405.6232)
