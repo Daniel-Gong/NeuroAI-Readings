@@ -1645,4 +1645,7 @@ Horray! I've been updating this list for a year!
 
 [Chaotic neural dynamics facilitate probabilistic computations through sampling](https://www.pnas.org/doi/10.1073/pnas.2312992121)
 
-[\[1405.6232\] Quasi-Critical Brain Dynamics on a Non-Equilibrium Widom Line](https://arxiv.org/abs/1405.6232)
+[Quasi-Critical Brain Dynamics on a Non-Equilibrium Widom Line](https://arxiv.org/abs/1405.6232)
+
+[Shaking the foundations: delusions in sequence models for interaction and control](https://arxiv.org/abs/2110.10819)
+
