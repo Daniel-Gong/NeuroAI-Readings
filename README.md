@@ -1649,4 +1649,6 @@ Horray! I've been updating this list for a year!
 
 [Shaking the foundations: delusions in sequence models for interaction and control](https://arxiv.org/abs/2110.10819)
 
+**5.17**
+
 [\[2505.10559\] Neural Thermodynamic Laws for Large Language Model Training](https://arxiv.org/abs/2505.10559)
