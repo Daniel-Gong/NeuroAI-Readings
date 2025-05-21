@@ -1654,3 +1654,7 @@ Horray! I've been updating this list for a year!
 [\[2505.10559\] Neural Thermodynamic Laws for Large Language Model Training](https://arxiv.org/abs/2505.10559)
 
 [Why We Think (Lil'Log)](https://lilianweng.github.io/posts/2025-05-01-thinking/)
+
+**5.20**
+
+[Brain-like variational inference](https://arxiv.org/abs/2410.19315)
