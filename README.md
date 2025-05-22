@@ -1658,3 +1658,7 @@ Horray! I've been updating this list for a year!
 **5.20**
 
 [Brain-like variational inference](https://arxiv.org/abs/2410.19315)
+
+**5.22**
+
+[\[2505.11614\] Using Reinforcement Learning to Train Large Language Models to Explain Human Decisions](https://arxiv.org/abs/2505.11614)
