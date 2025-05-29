@@ -1664,4 +1664,7 @@ Horray! I've been updating this list for a year!
 [\[2505.11614\] Using Reinforcement Learning to Train Large Language Models to Explain Human Decisions](https://arxiv.org/abs/2505.11614)
 
 **5.28**
+
 [Is gravity evidence of a computational universe?](https://pubs.aip.org/aip/adv/article/15/4/045035/3345217/Is-gravity-evidence-of-a-computational-universe)
+
+[Back to recurrent processing at the crossroad of transformers and state-space models](https://www.nature.com/articles/s42256-025-01034-6)
