@@ -1668,3 +1668,7 @@ Horray! I've been updating this list for a year!
 [Is gravity evidence of a computational universe?](https://pubs.aip.org/aip/adv/article/15/4/045035/3345217/Is-gravity-evidence-of-a-computational-universe)
 
 [Back to recurrent processing at the crossroad of transformers and state-space models](https://www.nature.com/articles/s42256-025-01034-6)
+
+**5.29**
+
+[\[2505.15105\] Mechanistic evaluation of Transformers and state space models](https://arxiv.org/abs/2505.15105)
