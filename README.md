@@ -1,4 +1,4 @@
-# NeuroAI-Readings
+ # NeuroAI-Readings
 
 I've been incrementally updating this list since Jan 29, 2024 and I find this a good way of collecting papers from random sources (conferences, twitter, conversations, etc.). 
 
@@ -1662,3 +1662,6 @@ Horray! I've been updating this list for a year!
 **5.22**
 
 [\[2505.11614\] Using Reinforcement Learning to Train Large Language Models to Explain Human Decisions](https://arxiv.org/abs/2505.11614)
+
+**5.28**
+[Is gravity evidence of a computational universe?](https://pubs.aip.org/aip/adv/article/15/4/045035/3345217/Is-gravity-evidence-of-a-computational-universe)
