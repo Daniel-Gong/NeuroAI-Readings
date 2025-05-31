@@ -1672,3 +1672,7 @@ Horray! I've been updating this list for a year!
 **5.29**
 
 [\[2505.15105\] Mechanistic evaluation of Transformers and state space models](https://arxiv.org/abs/2505.15105)
+
+**5.31**
+
+[Beyond Attention: Toward Machines with Intrinsic Higher Mental States](https://arxiv.org/abs/2505.06257)
