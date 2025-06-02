@@ -1676,3 +1676,7 @@ Horray! I've been updating this list for a year!
 **5.31**
 
 [Beyond Attention: Toward Machines with Intrinsic Higher Mental States](https://arxiv.org/abs/2505.06257)
+
+**6.2**
+
+[\[2505.17117\] From Tokens to Thoughts: How LLMs and Humans Trade Compression for Meaning](https://arxiv.org/abs/2505.17117)
