@@ -1680,3 +1680,6 @@ Horray! I've been updating this list for a year!
 **6.2**
 
 [\[2505.17117\] From Tokens to Thoughts: How LLMs and Humans Trade Compression for Meaning](https://arxiv.org/abs/2505.17117)
+
+**6.3**
+[The Markov blankets of life: autonomy, active inference and the free energy principle](https://royalsocietypublishing.org/doi/10.1098/rsif.2017.0792)
