@@ -1684,3 +1684,5 @@ Horray! I've been updating this list for a year!
 **6.3**
 
 [The Markov blankets of life: autonomy, active inference and the free energy principle](https://royalsocietypublishing.org/doi/10.1098/rsif.2017.0792)
+
+[\[2505.20896\] How Do Transformers Learn Variable Binding in Symbolic Programs?](https://arxiv.org/abs/2505.20896)
