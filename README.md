@@ -1686,3 +1686,9 @@ Horray! I've been updating this list for a year!
 [The Markov blankets of life: autonomy, active inference and the free energy principle](https://royalsocietypublishing.org/doi/10.1098/rsif.2017.0792)
 
 [\[2505.20896\] How Do Transformers Learn Variable Binding in Symbolic Programs?](https://arxiv.org/abs/2505.20896)
+
+**6.4**
+
+[Reinforcement Learning: An Overview](https://arxiv.org/abs/2412.05265)
+
+[Reinforcement Learning: An Introduction](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
