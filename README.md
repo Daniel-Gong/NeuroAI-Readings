@@ -1692,3 +1692,7 @@ Horray! I've been updating this list for a year!
 [Reinforcement Learning: An Overview](https://arxiv.org/abs/2412.05265)
 
 [Reinforcement Learning: An Introduction](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
+
+[Transformer Interpretability Beyond Attention Visualization](https://paperswithcode.com/paper/transformer-interpretability-beyond-attention)
+
+[Beyond Newton: Why Assumptions of Universality Are Critical to Cognitive Science, and How to Finally Move Past Them](https://psycnet.apa.org/fulltext/2024-83453-001.html)
