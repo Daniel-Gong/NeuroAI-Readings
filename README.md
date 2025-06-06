@@ -1696,3 +1696,7 @@ Horray! I've been updating this list for a year!
 [Transformer Interpretability Beyond Attention Visualization](https://paperswithcode.com/paper/transformer-interpretability-beyond-attention)
 
 [Beyond Newton: Why Assumptions of Universality Are Critical to Cognitive Science, and How to Finally Move Past Them](https://psycnet.apa.org/fulltext/2024-83453-001.html)
+
+**6.5**
+
+[\[2411.01992\] Ask, and it shall be given: On the Turing completeness of prompting](https://arxiv.org/abs/2411.01992)
