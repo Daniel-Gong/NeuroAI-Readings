@@ -1700,3 +1700,7 @@ Horray! I've been updating this list for a year!
 **6.5**
 
 [\[2411.01992\] Ask, and it shall be given: On the Turing completeness of prompting](https://arxiv.org/abs/2411.01992)
+
+**6.6**
+
+[\[2407.11024\] A mathematical framework of intelligence and consciousness based on Riemannian Geometry](https://arxiv.org/abs/2407.11024)
