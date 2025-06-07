@@ -1704,3 +1704,7 @@ Horray! I've been updating this list for a year!
 **6.6**
 
 [\[2407.11024\] A mathematical framework of intelligence and consciousness based on Riemannian Geometry](https://arxiv.org/abs/2407.11024)
+
+**6.7**
+
+[The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity](https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf)
