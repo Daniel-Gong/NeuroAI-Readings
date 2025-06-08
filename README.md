@@ -1708,3 +1708,9 @@ Horray! I've been updating this list for a year!
 **6.7**
 
 [The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity](https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf)
+
+**6.8**
+
+[Multi-timescale reinforcement learning in the brain](https://www.nature.com/articles/s41586-025-08929-9)
+
+[Foundation model of neural activity predicts response to new stimulus types](https://www.nature.com/articles/s41586-025-08829-y)
