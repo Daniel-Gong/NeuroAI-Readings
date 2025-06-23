@@ -1714,3 +1714,13 @@ Horray! I've been updating this list for a year!
 [Multi-timescale reinforcement learning in the brain](https://www.nature.com/articles/s41586-025-08929-9)
 
 [Foundation model of neural activity predicts response to new stimulus types](https://www.nature.com/articles/s41586-025-08829-y)
+
+**6.23**
+
+[\[2502.01951\] On the Emergence of Position Bias in Transformers](https://arxiv.org/abs/2502.01951)
+
+[\[2409.10568\] On the limits of agency in agent-based models](https://arxiv.org/abs/2409.10568)
+
+[\[2506.08872\] Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task](https://arxiv.org/abs/2506.08872)
+
+[\[2506.05744\] Topology of Reasoning: Understanding Large Reasoning Models through Reasoning Graph Properties](https://arxiv.org/abs/2506.05744)
