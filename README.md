@@ -1724,3 +1724,7 @@ Horray! I've been updating this list for a year!
 [\[2506.08872\] Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task](https://arxiv.org/abs/2506.08872)
 
 [\[2506.05744\] Topology of Reasoning: Understanding Large Reasoning Models through Reasoning Graph Properties](https://arxiv.org/abs/2506.05744)
+
+**7.1**
+
+[Unsupervised pretraining in biological neural networks](https://www.nature.com/articles/s41586-025-09180-y)
