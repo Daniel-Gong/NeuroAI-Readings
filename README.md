@@ -1728,3 +1728,9 @@ Horray! I've been updating this list for a year!
 **7.1**
 
 [Unsupervised pretraining in biological neural networks](https://www.nature.com/articles/s41586-025-09180-y)
+
+**7.15**
+
+[\[2507.02092\] Energy-Based Transformers are Scalable Learners and Thinkers](https://arxiv.org/abs/2507.02092)
+
+[\[2507.07505\] Hallucination Stations: On Some Basic Limitations of Transformer-Based Language Models](https://arxiv.org/abs/2507.07505)
