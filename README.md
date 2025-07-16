@@ -1734,3 +1734,5 @@ Horray! I've been updating this list for a year!
 [\[2507.02092\] Energy-Based Transformers are Scalable Learners and Thinkers](https://arxiv.org/abs/2507.02092)
 
 [\[2507.07505\] Hallucination Stations: On Some Basic Limitations of Transformer-Based Language Models](https://arxiv.org/abs/2507.07505)
+
+[What Has a Foundation Model Found? Using Inductive Bias to Probe for World Models](https://arxiv.org/abs/2507.06952)
