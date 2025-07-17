@@ -1736,3 +1736,7 @@ Horray! I've been updating this list for a year!
 [\[2507.07505\] Hallucination Stations: On Some Basic Limitations of Transformer-Based Language Models](https://arxiv.org/abs/2507.07505)
 
 [What Has a Foundation Model Found? Using Inductive Bias to Probe for World Models](https://arxiv.org/abs/2507.06952)
+
+**7.17**
+
+[\[2404.14928\] Graph Machine Learning in the Era of Large Language Models (LLMs)](https://arxiv.org/abs/2404.14928)
