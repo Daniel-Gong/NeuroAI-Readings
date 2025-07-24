@@ -1740,3 +1740,7 @@ Horray! I've been updating this list for a year!
 **7.17**
 
 [\[2404.14928\] Graph Machine Learning in the Era of Large Language Models (LLMs)](https://arxiv.org/abs/2404.14928)
+
+**7.24**
+
+[Top-down and bottom-up neuroscience: overcoming the clash of research cultures | Nature Reviews Neuroscience](https://www.nature.com/articles/s41583-025-00946-x)
