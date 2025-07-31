@@ -1744,3 +1744,7 @@ Horray! I've been updating this list for a year!
 **7.24**
 
 [Top-down and bottom-up neuroscience: overcoming the clash of research cultures | Nature Reviews Neuroscience](https://www.nature.com/articles/s41583-025-00946-x)
+
+**7.31**
+
+[Foundations of Large Language Models](https://arxiv.org/abs/2501.09223v2)
