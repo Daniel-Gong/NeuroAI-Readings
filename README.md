@@ -1748,3 +1748,7 @@ Horray! I've been updating this list for a year!
 **7.31**
 
 [Foundations of Large Language Models](https://arxiv.org/abs/2501.09223v2)
+
+**8.1**
+
+[CoT_Is_Not_Explainability](https://aigi.ox.ac.uk/wp-content/uploads/2025/07/Cot_Is_Not_Explainability.pdf)
