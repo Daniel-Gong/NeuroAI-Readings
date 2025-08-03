@@ -1752,3 +1752,7 @@ Horray! I've been updating this list for a year!
 **8.1**
 
 [CoT_Is_Not_Explainability](https://aigi.ox.ac.uk/wp-content/uploads/2025/07/Cot_Is_Not_Explainability.pdf)
+
+**8.3**
+
+[\[2506.21734\] Hierarchical Reasoning Model](https://arxiv.org/abs/2506.21734)
