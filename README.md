@@ -1756,3 +1756,7 @@ Horray! I've been updating this list for a year!
 **8.3**
 
 [\[2506.21734\] Hierarchical Reasoning Model](https://arxiv.org/abs/2506.21734)
+
+**8.5**
+
+[Evidence from Formal Logical Reasoning Reveals that the Language of Thought is not Natural Language](https://www.biorxiv.org/content/10.1101/2025.07.26.666979v1)
