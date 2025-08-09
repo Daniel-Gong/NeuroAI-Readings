@@ -1762,3 +1762,7 @@ Horray! I've been updating this list for a year!
 [Evidence from Formal Logical Reasoning Reveals that the Language of Thought is not Natural Language](https://www.biorxiv.org/content/10.1101/2025.07.26.666979v1)
 
 [\[2507.07295\] Local imperfect feedback control in non-equilibrium biophysical systems enabled by thermodynamic constraints](https://arxiv.org/abs/2507.07295)
+
+**8.8**
+
+[Why We Think](https://lilianweng.github.io/posts/2025-05-01-thinking/)
