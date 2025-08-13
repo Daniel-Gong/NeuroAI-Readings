@@ -1766,3 +1766,15 @@ Horray! I've been updating this list for a year!
 **8.8**
 
 [Why We Think](https://lilianweng.github.io/posts/2025-05-01-thinking/)
+
+8.13
+
+I am at CCN and will update some interesting papers!
+
+[The threshold for conscious report: Signal loss and response bias in visual and frontal cortex](https://www.science.org/doi/10.1126/science.aar7186)
+
+[Single-trial spike trains in parietal cortex reveal discrete steps during decision-making](https://www.science.org/doi/10.1126/science.aaa4056)
+
+[A dynamic bifurcation mechanism explains cortex-wide neural correlates of conscious access](https://www.cell.com/cell-reports/fulltext/S2211-1247\(25\)00143-3)
+
+[Generalization Through the Recurrent Interaction of Episodic Memories: A Model of the Hippocampal System](https://web.stanford.edu/~jlmcc/papers/KumaranMcC12REMERGE.pdf)
