@@ -1778,3 +1778,7 @@ I am at CCN and will update some interesting papers!
 [A dynamic bifurcation mechanism explains cortex-wide neural correlates of conscious access](https://www.cell.com/cell-reports/fulltext/S2211-1247\(25\)00143-3)
 
 [Generalization Through the Recurrent Interaction of Episodic Memories: A Model of the Hippocampal System](https://web.stanford.edu/~jlmcc/papers/KumaranMcC12REMERGE.pdf)
+
+[From Thought to Action: How a Hierarchy of Neural Dynamics Supports Language Production](https://arxiv.org/abs/2502.07429)
+
+[Decoding speech perception from non-invasive brain recordings](https://www.nature.com/articles/s42256-023-00714-5)
