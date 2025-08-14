@@ -1782,3 +1782,5 @@ I am at CCN and will update some interesting papers!
 [From Thought to Action: How a Hierarchy of Neural Dynamics Supports Language Production](https://arxiv.org/abs/2502.07429)
 
 [Decoding speech perception from non-invasive brain recordings](https://www.nature.com/articles/s42256-023-00714-5)
+
+[Emergence of Language in the Developing Brain](https://scontent-ams2-1.xx.fbcdn.net/v/t39.2365-6/497635895_1416828025978405_6687721506010334726_n.pdf?_nc_cat=100&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=G0kaONY1E0QQ7kNvwHFGsRj&_nc_oc=AdlfeixcF7Gxk4pov8pdP-a8lU4cIvm8ckVI6F4kfoRgk2KGAqovsgfxWv5ozlGpTUE&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=KnLH6vL5cbXrTeJu1AIvag&oh=00_AfVKMzc5wNRg6GyBtyHtOSKbVr6JyIBwdirAmjXiML-1AA&oe=68A39AA4)
