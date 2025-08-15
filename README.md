@@ -1887,3 +1887,5 @@ I am at CCN and will update some interesting papers!
 [\[2301.10884\] Break It Down: Evidence for Structural Compositionality in Neural Networks](https://arxiv.org/abs/2301.10884)
 
 [Spatially and non-spatially tuned hippocampal neurons are linear perceptual and nonlinear memory encoders](https://www.biorxiv.org/content/10.1101/2025.06.23.661173v1.full)
+
+[Emergence of distributed working memory in a human brain network model](https://www.biorxiv.org/content/10.1101/2023.01.26.525779v1.full)
