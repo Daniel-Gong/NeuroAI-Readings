@@ -1889,3 +1889,5 @@ I am at CCN and will update some interesting papers!
 [Spatially and non-spatially tuned hippocampal neurons are linear perceptual and nonlinear memory encoders](https://www.biorxiv.org/content/10.1101/2025.06.23.661173v1.full)
 
 [Emergence of distributed working memory in a human brain network model](https://www.biorxiv.org/content/10.1101/2023.01.26.525779v1.full)
+
+[\[2210.01768\] Disentanglement with Biological Constraints: A Theory of Functional Cell Types](https://arxiv.org/abs/2210.01768)
