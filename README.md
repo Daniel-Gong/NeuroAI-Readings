@@ -1796,3 +1796,7 @@ I am at CCN and will update some interesting papers!
 [Emergence of distributed working memory in a human brain network model](https://www.biorxiv.org/content/10.1101/2023.01.26.525779v1.full)
 
 [Disentanglement with Biological Constraints: A Theory of Functional Cell Types](https://arxiv.org/abs/2210.01768)
+
+**8.16**
+
+[\[2503.11299\] BriLLM: Brain-inspired Large Language Model](https://arxiv.org/abs/2503.11299)
