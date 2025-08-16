@@ -1771,7 +1771,28 @@ Horray! I've been updating this list for a year!
 
 I am at CCN and will update some interesting papers!
 
-[The threshold for conscious report: Signal loss and response bias in visual and frontal cortex](https://www.science.org/doi/10.1126/science.aar7186
+[The threshold for conscious report: Signal loss and response bias in visual and frontal cortex](https://www.science.org/doi/10.1126/science.aar7186)
 
-            
- 
+[Single-trial spike trains in parietal cortex reveal discrete steps during decision-making](https://www.science.org/doi/10.1126/science.aaa4056)
+
+[A dynamic bifurcation mechanism explains cortex-wide neural correlates of conscious access](https://www.cell.com/cell-reports/fulltext/S2211-1247\(25\)00143-3)
+
+[Generalization Through the Recurrent Interaction of Episodic Memories: A Model of the Hippocampal System](https://web.stanford.edu/~jlmcc/papers/KumaranMcC12REMERGE.pdf)
+
+[From Thought to Action: How a Hierarchy of Neural Dynamics Supports Language Production](https://arxiv.org/abs/2502.07429)
+
+[Decoding speech perception from non-invasive brain recordings](https://www.nature.com/articles/s42256-023-00714-5)
+
+[Emergence of Language in the Developing Brain](https://scontent-ams2-1.xx.fbcdn.net/v/t39.2365-6/497635895_1416828025978405_6687721506010334726_n.pdf?_nc_cat=100&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=G0kaONY1E0QQ7kNvwHFGsRj&_nc_oc=AdlfeixcF7Gxk4pov8pdP-a8lU4cIvm8ckVI6F4kfoRgk2KGAqovsgfxWv5ozlGpTUE&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=KnLH6vL5cbXrTeJu1AIvag&oh=00_AfVKMzc5wNRg6GyBtyHtOSKbVr6JyIBwdirAmjXiML-1AA&oe=68A39AA4)
+
+[From Thought to Action: How a Hierarchy of Neural Dynamics Supports Language Production](https://arxiv.org/abs/2502.07429)
+
+[Mechanisms of distributed working memory in a large-scale network of macaque neocortex | eLife](https://elifesciences.org/articles/72136)
+
+[\[2301.10884\] Break It Down: Evidence for Structural Compositionality in Neural Networks](https://arxiv.org/abs/2301.10884)
+
+[Spatially and non-spatially tuned hippocampal neurons are linear perceptual and nonlinear memory encoders](https://www.biorxiv.org/content/10.1101/2025.06.23.661173v1.full)
+
+[Emergence of distributed working memory in a human brain network model](https://www.biorxiv.org/content/10.1101/2023.01.26.525779v1.full)
+
+[Disentanglement with Biological Constraints: A Theory of Functional Cell Types](https://arxiv.org/abs/2210.01768)
