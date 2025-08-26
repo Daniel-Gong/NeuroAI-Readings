@@ -1767,7 +1767,7 @@ Horray! I've been updating this list for a year!
 
 [Why We Think](https://lilianweng.github.io/posts/2025-05-01-thinking/)
 
-8.13
+**8.13**
 
 I am at CCN and will update some interesting papers!
 
