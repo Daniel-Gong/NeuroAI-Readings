@@ -1800,3 +1800,7 @@ I am at CCN and will update some interesting papers!
 **8.16**
 
 [\[2503.11299\] BriLLM: Brain-inspired Large Language Model](https://arxiv.org/abs/2503.11299)
+
+**8.26**
+
+[\[2508.13142\] Has GPT-5 Achieved Spatial Intelligence? An Empirical Study](https://www.arxiv.org/abs/2508.13142)
