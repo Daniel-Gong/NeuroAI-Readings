@@ -1793,6 +1793,8 @@ I am at CCN and will update some interesting papers!
 
 [Disentanglement with Biological Constraints: A Theory of Functional Cell Types](https://arxiv.org/abs/2210.01768)
 
+[\[2508.10057\] Large Language Models Show Signs of Alignment with Human Neurocognition During Abstract Reasoning](https://arxiv.org/abs/2508.10057)
+
 **8.16**
 
 [\[2503.11299\] BriLLM: Brain-inspired Large Language Model](https://arxiv.org/abs/2503.11299)
@@ -1802,3 +1804,13 @@ I am at CCN and will update some interesting papers!
 [\[2508.13142\] Has GPT-5 Achieved Spatial Intelligence? An Empirical Study](https://www.arxiv.org/abs/2508.13142)
 
 [\[2508.18226\] Disentangling the Factors of Convergence between Brains and Computer Vision Models](https://arxiv.org/abs/2508.18226)
+
+[\[2502.08524\] LLM Pretraining with Continuous Concepts](https://arxiv.org/abs/2502.08524)
+
+[\[2508.12920\] Do Large Language Model Agents Exhibit a Survival Instinct? An Empirical Study in a Sugarscape-Style Simulation](https://arxiv.org/abs/2508.12920)
+
+[\[2508.08289\] Understanding Transformers through the Lens of Pavlovian Conditioning](https://www.arxiv.org/abs/2508.08289)
+
+[\[2310.01798\] Large Language Models Cannot Self-Correct Reasoning Yet](https://arxiv.org/abs/2310.01798)
+
+[\[2508.10265\] Why Cannot Large Language Models Ever Make True Correct Reasoning?](https://arxiv.org/abs/2508.10265)
