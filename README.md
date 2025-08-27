@@ -725,8 +725,6 @@ Frontiers and Challenges](https://arxiv.org/pdf/2301.05832.pdf)
 
 [From Human Attention to Computational Attention: A Multidisciplinary Approach](https://link.springer.com/book/10.1007/978-1-4939-3435-5)
 
-[Disentangling and Integrating Relational and Sensory Information in Transformer Architectures](https://arxiv.org/abs/2405.16727)
-
 [Accurate Path Integration in Continuous Attractor Network Models of Grid Cells](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000291)
 
 [A map of spatial navigation for neuroscience - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0149763423001690#fig0025)
@@ -1785,8 +1783,6 @@ I am at CCN and will update some interesting papers!
 
 [Emergence of Language in the Developing Brain](https://scontent-ams2-1.xx.fbcdn.net/v/t39.2365-6/497635895_1416828025978405_6687721506010334726_n.pdf?_nc_cat=100&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=G0kaONY1E0QQ7kNvwHFGsRj&_nc_oc=AdlfeixcF7Gxk4pov8pdP-a8lU4cIvm8ckVI6F4kfoRgk2KGAqovsgfxWv5ozlGpTUE&_nc_zt=14&_nc_ht=scontent-ams2-1.xx&_nc_gid=KnLH6vL5cbXrTeJu1AIvag&oh=00_AfVKMzc5wNRg6GyBtyHtOSKbVr6JyIBwdirAmjXiML-1AA&oe=68A39AA4)
 
-[From Thought to Action: How a Hierarchy of Neural Dynamics Supports Language Production](https://arxiv.org/abs/2502.07429)
-
 [Mechanisms of distributed working memory in a large-scale network of macaque neocortex | eLife](https://elifesciences.org/articles/72136)
 
 [\[2301.10884\] Break It Down: Evidence for Structural Compositionality in Neural Networks](https://arxiv.org/abs/2301.10884)
@@ -1804,3 +1800,5 @@ I am at CCN and will update some interesting papers!
 **8.26**
 
 [\[2508.13142\] Has GPT-5 Achieved Spatial Intelligence? An Empirical Study](https://www.arxiv.org/abs/2508.13142)
+
+[\[2508.18226\] Disentangling the Factors of Convergence between Brains and Computer Vision Models](https://arxiv.org/abs/2508.18226)
