@@ -1814,3 +1814,7 @@ I am at CCN and will update some interesting papers!
 [\[2310.01798\] Large Language Models Cannot Self-Correct Reasoning Yet](https://arxiv.org/abs/2310.01798)
 
 [\[2508.10265\] Why Cannot Large Language Models Ever Make True Correct Reasoning?](https://arxiv.org/abs/2508.10265)
+
+[The Brain–Cognitive Behavior Problem: A Retrospective](https://www.eneuro.org/content/7/4/ENEURO.0069-20.2020)
+
+[Against the Epistemological Primacy of the Hardware: The Brain from Inside Out, Turned Upside Down](https://www.eneuro.org/content/7/4/ENEURO.0215-20.2020)
