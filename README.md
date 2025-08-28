@@ -1818,3 +1818,5 @@ I am at CCN and will update some interesting papers!
 [The Brain–Cognitive Behavior Problem: A Retrospective](https://www.eneuro.org/content/7/4/ENEURO.0069-20.2020)
 
 [Against the Epistemological Primacy of the Hardware: The Brain from Inside Out, Turned Upside Down](https://www.eneuro.org/content/7/4/ENEURO.0215-20.2020)
+
+[Wisdom of the silicon crowd: LLM ensemble prediction capabilities rival human crowd accuracy](https://www.science.org/doi/10.1126/sciadv.adp1528)
