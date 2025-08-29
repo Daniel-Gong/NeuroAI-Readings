@@ -1769,7 +1769,18 @@ Horray! I've been updating this list for a year!
 
 I am at CCN and will update some interesting papers!
 
-[The threshold for conscious report: Signal loss and response bias in visual and frontal cortex](https://www.science.org/doi/10.1126/science.aar7186)
+[The threshold for conscious report: Signal loss and response bias in visual and frontal cortex](https://www.science.org/doi/10.1126/science.aar7186
+
+            
+            
+
+              
+                3 comments on PubPeer (by: Lydia M. Maniatis)
+              
+            
+
+          
+)
 
 [Single-trial spike trains in parietal cortex reveal discrete steps during decision-making](https://www.science.org/doi/10.1126/science.aaa4056)
 
@@ -1820,3 +1831,7 @@ I am at CCN and will update some interesting papers!
 [Against the Epistemological Primacy of the Hardware: The Brain from Inside Out, Turned Upside Down](https://www.eneuro.org/content/7/4/ENEURO.0215-20.2020)
 
 [Wisdom of the silicon crowd: LLM ensemble prediction capabilities rival human crowd accuracy](https://www.science.org/doi/10.1126/sciadv.adp1528)
+
+**8.29**
+
+[Birth of a Transformer: A Memory Viewpoint](https://proceedings.neurips.cc/paper_files/paper/2023/hash/0561738a239a995c8cd2ef0e50cfa4fd-Abstract-Conference.html)
