@@ -1835,3 +1835,7 @@ I am at CCN and will update some interesting papers!
 **8.29**
 
 [Birth of a Transformer: A Memory Viewpoint](https://proceedings.neurips.cc/paper_files/paper/2023/hash/0561738a239a995c8cd2ef0e50cfa4fd-Abstract-Conference.html)
+
+**9.2**
+
+[\[2508.17291\] Meta-R1: Empowering Large Reasoning Models with Metacognition](https://arxiv.org/abs/2508.17291)
