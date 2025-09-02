@@ -1843,3 +1843,5 @@ I am at CCN and will update some interesting papers!
 [Is criticality a unified setpoint of brain function?](https://www.cell.com/neuron/fulltext/S0896-6273\(25\)00391-5)
 
 [Circular analysis in systems neuroscience: the dangers of double dipping](https://www.nature.com/articles/nn.2303)
+
+[From circuits to behavior: a bridge too far?](https://www.nature.com/articles/nn.3043)
