@@ -1845,3 +1845,5 @@ I am at CCN and will update some interesting papers!
 [Circular analysis in systems neuroscience: the dangers of double dipping](https://www.nature.com/articles/nn.2303)
 
 [From circuits to behavior: a bridge too far?](https://www.nature.com/articles/nn.3043)
+
+[Representational Strengths and Limitations of Transformers](https://proceedings.neurips.cc/paper_files/paper/2023/file/73bf692447f174984f30499ec9b20e04-Paper-Conference.pdf)
