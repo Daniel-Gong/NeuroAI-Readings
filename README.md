@@ -1847,3 +1847,7 @@ I am at CCN and will update some interesting papers!
 [From circuits to behavior: a bridge too far?](https://www.nature.com/articles/nn.3043)
 
 [Representational Strengths and Limitations of Transformers](https://proceedings.neurips.cc/paper_files/paper/2023/file/73bf692447f174984f30499ec9b20e04-Paper-Conference.pdf)
+
+**9.8**
+
+[Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead](https://www.nature.com/articles/s42256-019-0048-x)
