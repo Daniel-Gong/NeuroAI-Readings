@@ -1851,3 +1851,7 @@ I am at CCN and will update some interesting papers!
 **9.8**
 
 [Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead](https://www.nature.com/articles/s42256-019-0048-x)
+
+**9.9**
+
+[\[2509.05276\] SpikingBrain Technical Report: Spiking Brain-inspired Large Models](https://arxiv.org/abs/2509.05276)
