@@ -1855,3 +1855,5 @@ I am at CCN and will update some interesting papers!
 **9.9**
 
 [\[2509.05276\] SpikingBrain Technical Report: Spiking Brain-inspired Large Models](https://arxiv.org/abs/2509.05276)
+
+[Self-organizing systems: what, how, and why?](https://www.nature.com/articles/s44260-025-00031-5)
