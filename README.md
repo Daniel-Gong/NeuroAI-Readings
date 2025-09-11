@@ -2,6 +2,8 @@
 
 I've been incrementally updating this list since Jan 29, 2024 and I find this a good way of collecting papers from random sources (conferences, twitter, conversations, etc.). 
 
+<img width="1126" alt="word_cloud" src="https://github.com/user-attachments/assets/d3c3690a-ad98-435d-ae03-96e44748bc98" />
+
 This version groups all entries by theme/topic for easier reference. For the original chronological version, see `README-chronological.md`.
 
 ---
