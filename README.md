@@ -1857,3 +1857,7 @@ I am at CCN and will update some interesting papers!
 [\[2509.05276\] SpikingBrain Technical Report: Spiking Brain-inspired Large Models](https://arxiv.org/abs/2509.05276)
 
 [Self-organizing systems: what, how, and why?](https://www.nature.com/articles/s44260-025-00031-5)
+
+**9.11**
+
+[A brain-wide map of neural activity during complex behaviour](https://www.nature.com/articles/s41586-025-09235-0)
