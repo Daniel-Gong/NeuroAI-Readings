@@ -7,6 +7,11 @@ Feel free to star and contribute to this repo if you also find this helpful!
 <img width="1126" alt="word_cloud" src="https://github.com/user-attachments/assets/d3c3690a-ad98-435d-ae03-96e44748bc98" />
 
 ---
+
+*This file preserves the original chronological order of all entries. For a topical organization, see `README.md`.*
+
+---
+
 **1.29.2024**
 
 [Neural tuning and representational geometry](https://www.nature.com/articles/s41583-021-00502-3), *Nature Reviews Neuroscience*, 2021
