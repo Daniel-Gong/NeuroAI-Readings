@@ -82,6 +82,7 @@ This version groups all entries by theme/topic for easier reference. For the ori
 - [Self-attention Does Not Need $O(n^2)$ Memory](https://arxiv.org/abs/2112.05682)
 - [Hierarchical Reasoning Model](https://arxiv.org/abs/2506.21734)
 - [Energy-Based Transformers are Scalable Learners and Thinkers](https://arxiv.org/abs/2507.02092)
+- [LLMs are Bayesian, in Expectation, not in Realization](https://arxiv.org/abs/2507.11768)
 
 ## Predictive Coding, Energy Efficiency, and Neural Computation
 
