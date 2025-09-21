@@ -36,6 +36,7 @@ This version groups all entries by theme/topic for easier reference. For the ori
 - [Tracking the topology of neural manifolds across populations](https://www.pnas.org/doi/10.1073/pnas.2407997121)
 - [Manifolds: A Gentle Introduction](https://bjlkeng.io/posts/manifolds/)
 - [Dimension Reduction using Isomap](https://medium.com/data-science-in-your-pocket/dimension-reduction-using-isomap-72ead0411de)
+- [A neural manifold view of the brain](https://www.nature.com/articles/s41593-025-02031-z)
 
 ## Memory: Working, Episodic, and Associative
 
