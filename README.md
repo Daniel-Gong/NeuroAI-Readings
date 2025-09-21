@@ -83,6 +83,7 @@ This version groups all entries by theme/topic for easier reference. For the ori
 - [Hierarchical Reasoning Model](https://arxiv.org/abs/2506.21734)
 - [Energy-Based Transformers are Scalable Learners and Thinkers](https://arxiv.org/abs/2507.02092)
 - [LLMs are Bayesian, in Expectation, not in Realization](https://arxiv.org/abs/2507.11768)
+- [Lost in Embeddings: Information Loss in Vision-Language Models](https://arxiv.org/abs/2509.11986)
 
 ## Predictive Coding, Energy Efficiency, and Neural Computation
 
@@ -181,6 +182,7 @@ This version groups all entries by theme/topic for easier reference. For the ori
 - [The Self-Assembling Brain: How Neural Networks Grow Smarter](https://books.google.com/books?id=DEgHEAAAQBAJ&printsec=copyright#v=onepage&q&f=false)
 - [Handbook of Mathematics](https://link.springer.com/book/10.1007/978-3-662-46221-8#overview)
 - [Probabilistic Machine Learning](https://probml.github.io/pml-book/book1.html)
+- [How To Build Conscious Machines](https://osf.io/preprints/thesiscommons/wehmg_v1?view_only=)
 
 ## Miscellaneous, Philosophy, and Other
 
