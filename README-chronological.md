@@ -1870,3 +1870,5 @@ I am at CCN and will update some interesting papers!
 **9.23**
 
 [Wake-sleep transition as a noisy bifurcation](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.94.022412)
+
+[\[2509.11986\] Lost in Embeddings: Information Loss in Vision-Language Models](https://arxiv.org/abs/2509.11986)
