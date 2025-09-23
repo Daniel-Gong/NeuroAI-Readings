@@ -96,6 +96,7 @@ This version groups all entries by theme/topic for easier reference. For the ori
 - [Hopfield Networks is All You Need](https://arxiv.org/abs/2008.02217)
 - [Learning Attractor Dynamics for Generative Memory](https://proceedings.neurips.cc/paper_files/paper/2018/file/6e4243f5511fd6ef0f03e9f386d54403-Paper.pdf)
 - [Statistical mechanics of complex neural systems and high dimensional data](https://arxiv.org/abs/1301.7115)
+- [Wake-sleep transition as a noisy bifurcation](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.94.022412)
 
 ## Causality, Reasoning, and Cognitive Science
 
