@@ -1866,3 +1866,7 @@ I am at CCN and will update some interesting papers!
 **9.11**
 
 [A brain-wide map of neural activity during complex behaviour](https://www.nature.com/articles/s41586-025-09235-0)
+
+**9.23**
+
+[Wake-sleep transition as a noisy bifurcation](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.94.022412)
