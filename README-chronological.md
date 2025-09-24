@@ -1878,3 +1878,5 @@ I am at CCN and will update some interesting papers!
 [A mechanistic theory of planning in prefrontal cortex](https://www.biorxiv.org/content/10.1101/2025.09.23.677709v1.full.pdf+html)
 
 [Towards large language models with human-like episodic memory](https://www.sciencedirect.com/science/article/pii/S1364661325001792)
+
+[\[2508.21276\] Finite entropy sums in quantum field theory](https://arxiv.org/abs/2508.21276)
