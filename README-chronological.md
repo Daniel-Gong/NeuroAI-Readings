@@ -1872,3 +1872,7 @@ I am at CCN and will update some interesting papers!
 [Wake-sleep transition as a noisy bifurcation](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.94.022412)
 
 [\[2509.11986\] Lost in Embeddings: Information Loss in Vision-Language Models](https://arxiv.org/abs/2509.11986)
+
+**9.24**
+
+[A mechanistic theory of planning in prefrontal cortex](https://www.biorxiv.org/content/10.1101/2025.09.23.677709v1.full.pdf+html)
