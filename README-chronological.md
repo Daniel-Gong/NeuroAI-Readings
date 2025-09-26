@@ -1880,3 +1880,7 @@ I am at CCN and will update some interesting papers!
 [Towards large language models with human-like episodic memory](https://www.sciencedirect.com/science/article/pii/S1364661325001792)
 
 [\[2508.21276\] Finite entropy sums in quantum field theory](https://arxiv.org/abs/2508.21276)
+
+**9.25**
+
+[Analog in-memory computing attention mechanism for fast and energy-efficient large language models](https://www.nature.com/articles/s43588-025-00854-1)
