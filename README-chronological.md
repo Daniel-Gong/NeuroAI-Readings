@@ -1884,3 +1884,7 @@ I am at CCN and will update some interesting papers!
 **9.25**
 
 [Analog in-memory computing attention mechanism for fast and energy-efficient large language models](https://www.nature.com/articles/s43588-025-00854-1)
+
+**9.30**
+
+[论智能起源中的简约与自洽原则](https://www.fitee.zjujournals.com/zh/article/doi/10.1631/FITEE.2200297/)
