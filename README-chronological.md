@@ -1888,3 +1888,7 @@ I am at CCN and will update some interesting papers!
 **9.30**
 
 [论智能起源中的简约与自洽原则](https://www.fitee.zjujournals.com/zh/article/doi/10.1631/FITEE.2200297/)
+
+**10.6**
+
+[Conscious artificial intelligence and biological naturalism | Behavioral and Brain Sciences](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/conscious-artificial-intelligence-and-biological-naturalism/C9912A5BE9D806012E3C8B3AF612E39A)
