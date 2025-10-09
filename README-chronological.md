@@ -1891,4 +1891,9 @@ I am at CCN and will update some interesting papers!
 
 **10.6**
 
-[Conscious artificial intelligence and biological naturalism | Behavioral and Brain Sciences](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/conscious-artificial-intelligence-and-biological-naturalism/C9912A5BE9D806012E3C8B3AF612E39A)
+[Conscious artificial intelligence and biological naturalism](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/conscious-artificial-intelligence-and-biological-naturalism/C9912A5BE9D806012E3C8B3AF612E39A)
+
+**10.9**
+
+[Mathematical discovery in the age of artificial intelligence](https://www.nature.com/articles/s41567-025-03042-0)
+
