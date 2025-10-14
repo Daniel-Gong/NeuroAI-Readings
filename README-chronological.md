@@ -1900,3 +1900,7 @@ I am at CCN and will update some interesting papers!
 **10.13**
 
 [On the roles of function and selection in evolving systems](https://www.pnas.org/doi/10.1073/pnas.2310223120)
+
+**10.14**
+
+[\[2505.13124\] $μ$PC: Scaling Predictive Coding to 100+ Layer Networks](https://arxiv.org/abs/2505.13124)
