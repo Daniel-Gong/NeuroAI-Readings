@@ -1897,3 +1897,6 @@ I am at CCN and will update some interesting papers!
 
 [Mathematical discovery in the age of artificial intelligence](https://www.nature.com/articles/s41567-025-03042-0)
 
+**10.13**
+
+[On the roles of function and selection in evolving systems](https://www.pnas.org/doi/10.1073/pnas.2310223120)
