@@ -1904,3 +1904,7 @@ I am at CCN and will update some interesting papers!
 **10.14**
 
 [\[2505.13124\] $μ$PC: Scaling Predictive Coding to 100+ Layer Networks](https://arxiv.org/abs/2505.13124)
+
+**10.15**
+
+[Tensor logic: the language of AI](https://arxiv.org/pdf/2510.12269)
