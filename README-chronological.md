@@ -1908,3 +1908,7 @@ I am at CCN and will update some interesting papers!
 **10.15**
 
 [Tensor logic: the language of AI](https://arxiv.org/pdf/2510.12269)
+
+**10.17**
+
+[\[2510.09782\] The Geometry of Reasoning: Flowing Logics in Representation Space](https://arxiv.org/abs/2510.09782)
