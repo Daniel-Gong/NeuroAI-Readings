@@ -1912,3 +1912,5 @@ I am at CCN and will update some interesting papers!
 **10.17**
 
 [\[2510.09782\] The Geometry of Reasoning: Flowing Logics in Representation Space](https://arxiv.org/abs/2510.09782)
+
+[A Definition of AGI](https://www.agidefinition.ai/paper.pdf)
