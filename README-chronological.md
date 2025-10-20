@@ -1918,3 +1918,5 @@ I am at CCN and will update some interesting papers!
 **10.19**
 
 [\[2509.20021\] Embodied AI: From LLMs to World Models](https://arxiv.org/abs/2509.20021)
+
+[Neuromorphic is dead. Long live neuromorphic.](https://www.cell.com/neuron/fulltext/S0896-6273\(25\)00708-1)
