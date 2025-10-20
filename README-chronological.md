@@ -1914,3 +1914,7 @@ I am at CCN and will update some interesting papers!
 [\[2510.09782\] The Geometry of Reasoning: Flowing Logics in Representation Space](https://arxiv.org/abs/2510.09782)
 
 [A Definition of AGI](https://www.agidefinition.ai/paper.pdf)
+
+**10.19**
+
+[\[2509.20021\] Embodied AI: From LLMs to World Models](https://arxiv.org/abs/2509.20021)
