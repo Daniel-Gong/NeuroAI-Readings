@@ -1922,3 +1922,5 @@ I am at CCN and will update some interesting papers!
 [Neuromorphic is dead. Long live neuromorphic.](https://www.cell.com/neuron/fulltext/S0896-6273\(25\)00708-1)
 
 [\[2207.03523\] Winning the lottery with neural connectivity constraints: faster learning across cognitive tasks with spatially constrained sparse RNNs](https://arxiv.org/abs/2207.03523)
+
+[\[2506.00138\] Autonomous Behavior and Whole-Brain Dynamics Emerge in Embodied Zebrafish Agents with Model-based Intrinsic Motivation](https://arxiv.org/abs/2506.00138)
