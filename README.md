@@ -4,7 +4,7 @@ I've been incrementally updating this list since Jan 29, 2024 and I find this a 
 
 <img width="1126" alt="word_cloud" src="https://github.com/user-attachments/assets/d3c3690a-ad98-435d-ae03-96e44748bc98" />
 
-This version selects some entries by theme/topic for easier reference. **For the more frequently updated chronological version, see [README-chronological.md](https://github.com/Daniel-Gong/NeuroAI-Readings/edit/main/READMEchronological.md)**.
+This version selects some entries by theme/topic for easier reference. **For the more frequently updated chronological version, see [README-chronological.md](https://github.com/Daniel-Gong/NeuroAI-Readings/edit/main/README-chronological.md)**.
 
 ---
 
