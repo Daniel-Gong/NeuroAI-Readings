@@ -1934,3 +1934,5 @@ I am at CCN and will update some interesting papers!
 [Is coding a relevant metaphor for the brain?](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/is-coding-a-relevant-metaphor-for-the-brain/D578626E4888193FFFAE5B6E2C37E052#access-block)
 
 [A Critical Perspective on Neural Mechanisms in Cognitive Neuroscience: Towards Unification](https://journals.sagepub.com/doi/10.1177/17456916231191744)
+
+[\[2510.09244\] Fundamentals of Building Autonomous LLM Agents](https://arxiv.org/abs/2510.09244)
