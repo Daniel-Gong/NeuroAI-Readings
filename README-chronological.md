@@ -1930,3 +1930,7 @@ I am at CCN and will update some interesting papers!
 [\[2506.13331\] Mixture of Cognitive Reasoners: Modular Reasoning with Brain-Like Specialization](https://arxiv.org/abs/2506.13331)
 
 [Discovering state-of-the-art reinforcement learning algorithms](https://www.nature.com/articles/s41586-025-09761-x)
+
+[Is coding a relevant metaphor for the brain?](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/is-coding-a-relevant-metaphor-for-the-brain/D578626E4888193FFFAE5B6E2C37E052#access-block)
+
+[A Critical Perspective on Neural Mechanisms in Cognitive Neuroscience: Towards Unification](https://journals.sagepub.com/doi/10.1177/17456916231191744)
