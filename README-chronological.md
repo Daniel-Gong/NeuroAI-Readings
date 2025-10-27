@@ -1924,3 +1924,9 @@ I am at CCN and will update some interesting papers!
 [\[2207.03523\] Winning the lottery with neural connectivity constraints: faster learning across cognitive tasks with spatially constrained sparse RNNs](https://arxiv.org/abs/2207.03523)
 
 [\[2506.00138\] Autonomous Behavior and Whole-Brain Dynamics Emerge in Embodied Zebrafish Agents with Model-based Intrinsic Motivation](https://arxiv.org/abs/2506.00138)
+
+**10.27**
+
+[\[2506.13331\] Mixture of Cognitive Reasoners: Modular Reasoning with Brain-Like Specialization](https://arxiv.org/abs/2506.13331)
+
+[Discovering state-of-the-art reinforcement learning algorithms](https://www.nature.com/articles/s41586-025-09761-x)
