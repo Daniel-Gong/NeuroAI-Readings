@@ -1938,3 +1938,7 @@ I am at CCN and will update some interesting papers!
 [\[2510.09244\] Fundamentals of Building Autonomous LLM Agents](https://arxiv.org/abs/2510.09244)
 
 [The emergence of NeuroAI: bridging neuroscience and artificial intelligence](https://www.nature.com/articles/s41583-025-00954-x)
+
+ **10.29**
+
+[Everything About Transformers](https://www.krupadave.com/articles/everything-about-transformers?x=v3)
