@@ -1936,3 +1936,5 @@ I am at CCN and will update some interesting papers!
 [A Critical Perspective on Neural Mechanisms in Cognitive Neuroscience: Towards Unification](https://journals.sagepub.com/doi/10.1177/17456916231191744)
 
 [\[2510.09244\] Fundamentals of Building Autonomous LLM Agents](https://arxiv.org/abs/2510.09244)
+
+[The emergence of NeuroAI: bridging neuroscience and artificial intelligence](https://www.nature.com/articles/s41583-025-00954-x)
