@@ -1946,3 +1946,5 @@ I am at CCN and will update some interesting papers!
 **11.5**
 
 [From prediction to understanding: Will AI foundation models transform brain science?: Neuron](https://www.cell.com/neuron/fulltext/S0896-6273\(25\)00752-4)
+
+[\[2503.20749v7\] Can LLM Agents Simulate Multi-Turn Human Behavior? Evidence from Real Online Customer Behavior Data](https://arxiv.org/abs/2503.20749v7)
