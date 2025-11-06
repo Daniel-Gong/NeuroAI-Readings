@@ -1942,3 +1942,7 @@ I am at CCN and will update some interesting papers!
  **10.29**
 
 [Everything About Transformers](https://www.krupadave.com/articles/everything-about-transformers?x=v3)
+
+**11.5**
+
+[From prediction to understanding: Will AI foundation models transform brain science?: Neuron](https://www.cell.com/neuron/fulltext/S0896-6273\(25\)00752-4)
