@@ -1948,3 +1948,9 @@ I am at CCN and will update some interesting papers!
 [From prediction to understanding: Will AI foundation models transform brain science?: Neuron](https://www.cell.com/neuron/fulltext/S0896-6273\(25\)00752-4)
 
 [\[2503.20749v7\] Can LLM Agents Simulate Multi-Turn Human Behavior? Evidence from Real Online Customer Behavior Data](https://arxiv.org/abs/2503.20749v7)
+
+**11.6**
+
+[\[2510.21890\] The Principles of Diffusion Models](https://www.arxiv.org/abs/2510.21890)
+
+[Humans and neural networks show similar patterns of transfer and interference during continual learning](https://www.nature.com/articles/s41562-025-02318-y)
