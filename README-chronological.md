@@ -1956,3 +1956,5 @@ I am at CCN and will update some interesting papers!
 [Humans and neural networks show similar patterns of transfer and interference during continual learning](https://www.nature.com/articles/s41562-025-02318-y)
 
 [Falling asleep follows a predictable bifurcation dynamic](https://www.nature.com/articles/s41593-025-02091-1)
+
+[Identifying indicators of consciousness in AI systems](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613\(25\)00286-4)
