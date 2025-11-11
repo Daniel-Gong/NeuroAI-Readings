@@ -1958,3 +1958,5 @@ I am at CCN and will update some interesting papers!
 [Falling asleep follows a predictable bifurcation dynamic](https://www.nature.com/articles/s41593-025-02091-1)
 
 [Identifying indicators of consciousness in AI systems](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613\(25\)00286-4)
+
+[Fundamental performance bounds on reservoir computing](https://journals.aps.org/pre/abstract/10.1103/t4hg-vpmr)
