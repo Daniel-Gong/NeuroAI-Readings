@@ -1964,3 +1964,5 @@ I am at CCN and will update some interesting papers!
 **11.13**
 
 [Aligning machine and human visual representations across abstraction levels](https://www.nature.com/articles/s41586-025-09631-6)
+
+[Understanding neural networks through sparse circuits](https://openai.com/index/understanding-neural-networks-through-sparse-circuits/)
