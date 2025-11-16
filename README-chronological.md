@@ -1966,3 +1966,7 @@ I am at CCN and will update some interesting papers!
 [Aligning machine and human visual representations across abstraction levels](https://www.nature.com/articles/s41586-025-09631-6)
 
 [Understanding neural networks through sparse circuits](https://openai.com/index/understanding-neural-networks-through-sparse-circuits/)
+
+**11.16**
+
+[A mechanistic theory of planning in prefrontal cortex](https://www.biorxiv.org/content/10.1101/2025.09.23.677709v1)
