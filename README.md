@@ -2,8 +2,9 @@
 
 NeuroAI is an emerging interdisciplinary field that seeks to bridge neuroscience and artificial intelligence (AI) to mutually advance both domains. It operates on a two-way street: 
 
-• Neuroscience for AI: Using insights from the brain's structure, function, and learning mechanisms to inspire the development of more capable, energy-efficient, and robust AI systems. 
-• AI for Neuroscience: Applying powerful AI tools and computational models (such as deep neural networks) to analyze vast amounts of complex neural data, leading to a deeper understanding of how the brain works.
+- Neuroscience for AI: Using insights from the brain's structure, function, and learning mechanisms to inspire the development of more capable, energy-efficient, and robust AI systems.
+
+- AI for Neuroscience: Applying powerful AI tools and computational models (such as deep neural networks) to analyze vast amounts of complex neural data, leading to a deeper understanding of how the brain works.
 
 This reading list aims to keep updating on latest NeuroAI papers.
 
