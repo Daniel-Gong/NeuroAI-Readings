@@ -1,6 +1,11 @@
 # NeuroAI-Readings (Topical Organization)
 
-I've been incrementally updating this list since Jan 29, 2024 and I find this a good way of collecting papers from random sources (conferences, twitter, conversations, etc.). 
+NeuroAI is an emerging interdisciplinary field that seeks to bridge neuroscience and artificial intelligence (AI) to mutually advance both domains. It operates on a two-way street: 
+
+• Neuroscience for AI: Using insights from the brain's structure, function, and learning mechanisms to inspire the development of more capable, energy-efficient, and robust AI systems. 
+• AI for Neuroscience: Applying powerful AI tools and computational models (such as deep neural networks) to analyze vast amounts of complex neural data, leading to a deeper understanding of how the brain works.
+
+This reading list aims to keep updating on latest NeuroAI papers.
 
 <img width="1126" alt="word_cloud" src="https://github.com/user-attachments/assets/d3c3690a-ad98-435d-ae03-96e44748bc98" />
 
