@@ -1972,3 +1972,5 @@ I am at CCN and will update some interesting papers!
 [A mechanistic theory of planning in prefrontal cortex](https://www.biorxiv.org/content/10.1101/2025.09.23.677709v1)
 
 [\[2501.02950\] Key-value memory in the brain](https://arxiv.org/abs/2501.02950)
+
+[\[2510.20683\] A Scalable, Causal, and Energy Efficient Framework for Neural Decoding with Spiking Neural Networks](https://arxiv.org/abs/2510.20683)
