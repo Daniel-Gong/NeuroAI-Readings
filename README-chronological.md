@@ -1980,3 +1980,7 @@ I am at CCN and will update some interesting papers!
 [\[2511.06602\] A Causal Formulation of Spike-Wave Duality](https://arxiv.org/abs/2511.06602)
 
 [\[2512.05117\] The Universal Weight Subspace Hypothesis](https://arxiv.org/abs/2512.05117)
+
+**12.9**
+
+[\[2512.07796\] Large Causal Models from Large Language Models](https://www.arxiv.org/abs/2512.07796)
