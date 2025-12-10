@@ -1984,3 +1984,7 @@ I am at CCN and will update some interesting papers!
 **12.9**
 
 [\[2512.07796\] Large Causal Models from Large Language Models](https://www.arxiv.org/abs/2512.07796)
+
+**12.10**
+
+[\[2512.05865\] Sparse Attention Post-Training for Mechanistic Interpretability](https://arxiv.org/abs/2512.05865)
