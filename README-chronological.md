@@ -1988,3 +1988,7 @@ I am at CCN and will update some interesting papers!
 **12.10**
 
 [\[2512.05865\] Sparse Attention Post-Training for Mechanistic Interpretability](https://arxiv.org/abs/2512.05865)
+
+[\[2504.01538\] AI-Newton: A Concept-Driven Physical Law Discovery System without Prior Physical Knowledge](https://arxiv.org/abs/2504.01538)
+
+[Understanding emergence in complex systems using abductive AI](https://www.nature.com/articles/s42254-025-00895-5)
