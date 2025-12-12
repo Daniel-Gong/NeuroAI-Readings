@@ -1996,3 +1996,5 @@ I am at CCN and will update some interesting papers!
 **12.11**
 
 [A neural state space for episodic memories](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613\(25\)00284-0)
+
+[Online reinforcement learning of state representation in recurrent network supported by the power of random feedback and biological constraints](https://elifesciences.org/articles/104101)
