@@ -1998,3 +1998,9 @@ I am at CCN and will update some interesting papers!
 [A neural state space for episodic memories](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613\(25\)00284-0)
 
 [Online reinforcement learning of state representation in recurrent network supported by the power of random feedback and biological constraints](https://elifesciences.org/articles/104101)
+
+**12.16**
+
+[\[2406.07496\] TextGrad: Automatic "Differentiation" via Text](https://arxiv.org/abs/2406.07496)
+
+[\[2511.01202\] Forget BIT, It is All about TOKEN: Towards Semantic Information Theory for LLMs](https://arxiv.org/abs/2511.01202)
