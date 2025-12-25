@@ -2004,3 +2004,7 @@ I am at CCN and will update some interesting papers!
 [\[2406.07496\] TextGrad: Automatic "Differentiation" via Text](https://arxiv.org/abs/2406.07496)
 
 [\[2511.01202\] Forget BIT, It is All about TOKEN: Towards Semantic Information Theory for LLMs](https://arxiv.org/abs/2511.01202)
+
+**12.25**
+
+[\[2405.18758\] Learning to Continually Learn with the Bayesian Principle](https://arxiv.org/abs/2405.18758)
