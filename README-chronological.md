@@ -2008,3 +2008,7 @@ I am at CCN and will update some interesting papers!
 **12.25**
 
 [\[2405.18758\] Learning to Continually Learn with the Bayesian Principle](https://arxiv.org/abs/2405.18758)
+
+**2026.1.30** (Hooray! We are so back!)
+
+[The low-rank hypothesis of complex systems](https://www.nature.com/articles/s41567-023-02303-0)
