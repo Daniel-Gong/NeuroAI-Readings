@@ -2013,4 +2013,6 @@ I am at CCN and will update some interesting papers!
 
 [The low-rank hypothesis of complex systems](https://www.nature.com/articles/s41567-023-02303-0)
 
+**2026.2.2**
+
 [Excitatory and Inhibitory Interactions in Localized Populations of Model Neurons](https://www.sciencedirect.com/science/article/pii/S0006349572860685)
