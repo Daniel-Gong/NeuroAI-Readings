@@ -2016,3 +2016,7 @@ I am at CCN and will update some interesting papers!
 **2026.2.2**
 
 [Excitatory and Inhibitory Interactions in Localized Populations of Model Neurons](https://www.sciencedirect.com/science/article/pii/S0006349572860685)
+
+**2.11**
+
+[On the Role of Theory and Modeling in Neuroscience](https://www.jneurosci.org/content/43/7/1074)
