@@ -2020,3 +2020,5 @@ I am at CCN and will update some interesting papers!
 **2.11**
 
 [On the Role of Theory and Modeling in Neuroscience](https://www.jneurosci.org/content/43/7/1074)
+
+[Single cortical neurons as deep artificial neural networks - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0896627321005018)
