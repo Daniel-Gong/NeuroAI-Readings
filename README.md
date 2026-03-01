@@ -46,10 +46,6 @@ This version selects some entries by theme/topic for easier reference. **For the
 
 ## Memory: Working, Episodic, and Associative
 
-- [A formal model of capacity limits in working memory](https://www.sciencedirect.com/science/article/pii/S0749596X06000982)
-- [Representation and computation in visual working memory](https://www.nature.com/articles/s41562-024-01871-2?fromPaywallRec=false)
-- [The capacity of visual working memory for features and conjunctions](https://www.nature.com/articles/36846)
-- [The Distributed Nature of Working Memory](https://www.sciencedirect.com/science/article/pii/S1364661316302170)
 - [Theories of Error Back-Propagation in the Brain](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(19)30012-9)
 - [On prefrontal working memory and hippocampal episodic memory: Unifying memories stored in weights and activity slots](https://www.biorxiv.org/content/10.1101/2023.11.05.565662v2.full)
 - [Adaptive chunking improves effective working memory capacity in a prefrontal cortex and basal ganglia circuit](https://www.biorxiv.org/content/10.1101/2024.03.24.586455v1.full)
