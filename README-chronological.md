@@ -2022,3 +2022,7 @@ I am at CCN and will update some interesting papers!
 [On the Role of Theory and Modeling in Neuroscience](https://www.jneurosci.org/content/43/7/1074)
 
 [Single cortical neurons as deep artificial neural networks - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0896627321005018)
+
+**3.4**
+
+[Structure, disorder, and dynamics in task-trained recurrent neural circuits](https://www.biorxiv.org/content/10.64898/2026.03.02.708943v1)
