@@ -2026,3 +2026,7 @@ I am at CCN and will update some interesting papers!
 **3.4**
 
 [Structure, disorder, and dynamics in task-trained recurrent neural circuits](https://www.biorxiv.org/content/10.64898/2026.03.02.708943v1)
+
+**3.15**
+
+[\[2512.24601\] Recursive Language Models](https://arxiv.org/abs/2512.24601)
