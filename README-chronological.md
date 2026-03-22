@@ -2030,3 +2030,7 @@ I am at CCN and will update some interesting papers!
 **3.15**
 
 [\[2512.24601\] Recursive Language Models](https://arxiv.org/abs/2512.24601)
+
+**3.22**
+
+[\[2510.27688\] Continuous Autoregressive Language Models](https://arxiv.org/abs/2510.27688)
