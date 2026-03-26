@@ -2034,3 +2034,9 @@ I am at CCN and will update some interesting papers!
 **3.22**
 
 [\[2510.27688\] Continuous Autoregressive Language Models](https://arxiv.org/abs/2510.27688)
+
+**3.26**
+
+[NeuroAI and Embodied Intelligence](https://www.nature.com/collections/gififfbfjc)
+
+[Temporal structure of natural language processing in the human brain corresponds to layered hierarchy of large language models](https://www.nature.com/articles/s41467-025-65518-0)
