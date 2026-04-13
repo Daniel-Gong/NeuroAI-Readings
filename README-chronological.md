@@ -2042,3 +2042,7 @@ I am at CCN and will update some interesting papers!
 [Temporal structure of natural language processing in the human brain corresponds to layered hierarchy of large language models](https://www.nature.com/articles/s41467-025-65518-0)
 
 [\[2601.03220\] From Entropy to Epiplexity: Rethinking Information for Computationally Bounded Intelligence](https://arxiv.org/abs/2601.03220)
+
+**4.13**
+
+[\[2603.19312\] LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels](https://arxiv.org/abs/2603.19312)
