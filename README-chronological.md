@@ -2046,3 +2046,7 @@ I am at CCN and will update some interesting papers!
 **4.13**
 
 [\[2603.19312\] LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels](https://arxiv.org/abs/2603.19312)
+
+**4.15**
+
+[\[2602.06843\] The Representational Geometry of Number](https://arxiv.org/abs/2602.06843)
