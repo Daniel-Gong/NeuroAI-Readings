@@ -2050,3 +2050,7 @@ I am at CCN and will update some interesting papers!
 **4.15**
 
 [\[2602.06843\] The Representational Geometry of Number](https://arxiv.org/abs/2602.06843)
+
+**4.17**
+
+[The myth of the Bayesian brain](https://link.springer.com/article/10.1007/s00421-025-05855-6)
