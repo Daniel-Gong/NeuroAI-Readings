@@ -2054,3 +2054,7 @@ I am at CCN and will update some interesting papers!
 **4.17**
 
 [The myth of the Bayesian brain](https://link.springer.com/article/10.1007/s00421-025-05855-6)
+
+**4.20**
+
+[The Abstraction Fallacy: Why AI Can Simulate But Not Instantiate Consciousness — Google DeepMind](https://deepmind.google/research/publications/231971/)
