@@ -2058,3 +2058,7 @@ I am at CCN and will update some interesting papers!
 **4.20**
 
 [The Abstraction Fallacy: Why AI Can Simulate But Not Instantiate Consciousness — Google DeepMind](https://deepmind.google/research/publications/231971/)
+
+**4.22**
+
+[A neural network for modeling human concept formation, understanding and communication](https://www.nature.com/articles/s43588-026-00956-4)
