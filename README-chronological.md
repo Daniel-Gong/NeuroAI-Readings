@@ -2062,3 +2062,7 @@ I am at CCN and will update some interesting papers!
 **4.22**
 
 [A neural network for modeling human concept formation, understanding and communication](https://www.nature.com/articles/s43588-026-00956-4)
+
+**4.27**
+
+[\[2604.21691\] There Will Be a Scientific Theory of Deep Learning](https://arxiv.org/abs/2604.21691)
