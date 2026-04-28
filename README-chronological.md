@@ -2068,3 +2068,5 @@ I am at CCN and will update some interesting papers!
 [\[2604.21691\] There Will Be a Scientific Theory of Deep Learning](https://arxiv.org/abs/2604.21691)
 
 [\[2509.13323\] AI Behavioral Science](https://arxiv.org/abs/2509.13323)
+
+[Does Your LLM Agent Have a Self?](https://drive.google.com/file/d/1YcNVgORYu2ISiUL0TwAaxZKACZFDUsHE/view)
