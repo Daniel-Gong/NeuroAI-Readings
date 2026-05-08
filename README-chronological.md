@@ -2070,3 +2070,7 @@ I am at CCN and will update some interesting papers!
 [\[2509.13323\] AI Behavioral Science](https://arxiv.org/abs/2509.13323)
 
 [Does Your LLM Agent Have a Self?](https://drive.google.com/file/d/1YcNVgORYu2ISiUL0TwAaxZKACZFDUsHE/view)
+
+**5.7**
+
+[\[2605.01172\] A Theory of Generalization in Deep Learning](https://arxiv.org/abs/2605.01172)
