@@ -2074,3 +2074,7 @@ I am at CCN and will update some interesting papers!
 **5.7**
 
 [\[2605.01172\] A Theory of Generalization in Deep Learning](https://arxiv.org/abs/2605.01172)
+
+**5.19**
+
+[\[2509.23941\] Brain-language fusion enables interactive neural readout and in-silico experimentation](https://arxiv.org/abs/2509.23941)
