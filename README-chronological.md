@@ -2078,3 +2078,7 @@ I am at CCN and will update some interesting papers!
 **5.19**
 
 [\[2509.23941\] Brain-language fusion enables interactive neural readout and in-silico experimentation](https://arxiv.org/abs/2509.23941)
+
+**5.26**
+
+[\[2605.26099\] Language Models Need Sleep](https://arxiv.org/abs/2605.26099)
