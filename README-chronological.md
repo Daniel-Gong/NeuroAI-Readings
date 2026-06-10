@@ -1774,18 +1774,7 @@ Horray! I've been updating this list for a year!
 
 I am at CCN and will update some interesting papers!
 
-[The threshold for conscious report: Signal loss and response bias in visual and frontal cortex](https://www.science.org/doi/10.1126/science.aar7186
-
-            
-            
-
-              
-                3 comments on PubPeer (by: Lydia M. Maniatis)
-              
-            
-
-          
-)
+[The threshold for conscious report: Signal loss and response bias in visual and frontal cortex](https://www.science.org/doi/10.1126/science.aar7186)
 
 [Single-trial spike trains in parietal cortex reveal discrete steps during decision-making](https://www.science.org/doi/10.1126/science.aaa4056)
 
@@ -2082,3 +2071,7 @@ I am at CCN and will update some interesting papers!
 **5.26**
 
 [\[2605.26099\] Language Models Need Sleep](https://arxiv.org/abs/2605.26099)
+
+**6.10**
+
+[\[2505.05522\] Continuous Thought Machines](https://arxiv.org/abs/2505.05522)
