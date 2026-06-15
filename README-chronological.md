@@ -2075,3 +2075,7 @@ I am at CCN and will update some interesting papers!
 **6.10**
 
 [\[2505.05522\] Continuous Thought Machines](https://arxiv.org/abs/2505.05522)
+
+**6.15**
+
+[\[2606.05972\] LLM Explainability with Counterfactual Chains and Causal Graphs](https://arxiv.org/abs/2606.05972)
