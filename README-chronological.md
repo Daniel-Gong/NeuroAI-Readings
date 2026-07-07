@@ -2079,3 +2079,7 @@ I am at CCN and will update some interesting papers!
 **6.15**
 
 [\[2606.05972\] LLM Explainability with Counterfactual Chains and Causal Graphs](https://arxiv.org/abs/2606.05972)
+
+**7.6**
+
+[[2502.07591] DMWM: Dual-Mind World Model with Long-Term Imagination](https://arxiv.org/abs/2502.07591)
