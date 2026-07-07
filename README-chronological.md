@@ -2083,3 +2083,5 @@ I am at CCN and will update some interesting papers!
 **7.6**
 
 [[2502.07591] DMWM: Dual-Mind World Model with Long-Term Imagination](https://arxiv.org/abs/2502.07591)
+
+[[2505.13763] Language Models Are Capable of Metacognitive Monitoring and Control of Their Internal Activations](https://arxiv.org/abs/2505.13763)
