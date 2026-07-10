@@ -2089,3 +2089,7 @@ I am at CCN and will update some interesting papers!
 **7.7**
 
 [Letting the neural code speak: Automated characterization of monkey visual neurons through human language](https://arxiv.org/pdf/2605.12485)
+
+**7.10**
+
+[\[2606.14997\] AI Engram: In Search of Memory Traces in Artificial Intelligence](https://arxiv.org/abs/2606.14997)
