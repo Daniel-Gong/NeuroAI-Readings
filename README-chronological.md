@@ -2105,3 +2105,5 @@ I am at CCN and will update some interesting papers!
 **7.24**
 
 [[2301.05217] Progress measures for grokking via mechanistic interpretability](https://arxiv.org/abs/2301.05217)
+
+[[2607.21366] Hilbert Operator for Progressive Encoding (HOPE): A Mathematical Framework for Deconstructing Learned Representations in Deep Networks](https://arxiv.org/abs/2607.21366)
