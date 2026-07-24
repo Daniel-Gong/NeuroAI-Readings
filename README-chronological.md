@@ -2101,3 +2101,7 @@ I am at CCN and will update some interesting papers!
 **7.19**
 
 [[2503.11299] BriLLM: Brain-inspired Large Language Model](https://arxiv.org/abs/2503.11299)
+
+**7.24**
+
+[[2301.05217] Progress measures for grokking via mechanistic interpretability](https://arxiv.org/abs/2301.05217)
