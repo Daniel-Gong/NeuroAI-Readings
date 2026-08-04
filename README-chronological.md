@@ -2108,6 +2108,10 @@ I am at CCN and will update some interesting papers!
 
 [[2607.21366] Hilbert Operator for Progressive Encoding (HOPE): A Mathematical Framework for Deconstructing Learned Representations in Deep Networks](https://arxiv.org/abs/2607.21366)
 
-[Building an allocentric travelling direction signal via vector computation | Nature](https://www.nature.com/articles/s41586-021-04067-0)
+[Building an allocentric travelling direction signal via vector computation](https://www.nature.com/articles/s41586-021-04067-0)
 
-[Why the simplest explanation isn’t always the best | PNAS](https://www.pnas.org/doi/10.1073/pnas.2319169120)
+[Why the simplest explanation isn’t always the best](https://www.pnas.org/doi/10.1073/pnas.2319169120)
+
+**8.3**
+
+[[2503.11299] BriLLM: Brain-inspired Large Language Model](https://arxiv.org/abs/2503.11299)
