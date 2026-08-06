@@ -2115,3 +2115,7 @@ I am at CCN and will update some interesting papers!
 **8.3**
 
 [[2503.11299] BriLLM: Brain-inspired Large Language Model](https://arxiv.org/abs/2503.11299)
+
+**8.6**
+
+[Beyond representational alignment with brain-guided language models for robust reasoning](https://www.nature.com/articles/s42256-026-01278-w)
