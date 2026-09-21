@@ -2125,3 +2125,7 @@ I am at CCN and will update some interesting papers!
 [\[2608.13545\] LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure](https://arxiv.org/abs/2608.13545)
 
 [Neural substrate of dynamic Bayesian inference in the cerebral cortex](https://www.nature.com/articles/nn.4390)
+
+**9.21**
+
+[Reverse predictivity for bidirectional comparison of neural networks and biological brains](https://www.nature.com/articles/s42256-026-01204-0)
