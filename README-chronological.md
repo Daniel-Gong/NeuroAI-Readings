@@ -2129,3 +2129,5 @@ I am at CCN and will update some interesting papers!
 **9.21**
 
 [Reverse predictivity for bidirectional comparison of neural networks and biological brains](https://www.nature.com/articles/s42256-026-01204-0)
+
+[Vision Hopfield Memory Networks for Image Recognition](https://arxiv.org/pdf/2603.25157)
